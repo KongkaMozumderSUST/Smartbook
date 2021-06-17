@@ -1,0 +1,3 @@
+|Runtime|রানটাইম
+|Kongka|Kongka
+|Recursion|পুনরাবৃত্তি
